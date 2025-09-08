@@ -1,7 +1,7 @@
 [
   {
     "id": "da88b0e01127dbd7",
-    "username": "zimzim",
+    "username": "zimzim1",
     "password": "zimzim",
     "expiresAt": "2026-09-07",
     "allowOffline": false
