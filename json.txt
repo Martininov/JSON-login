@@ -131,6 +131,20 @@
     "password": "mennejc90",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "f1a5400a5a4082e4",
+    "username": "Ibhcarter",
+    "password": "Ibhcho1122",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+  {
+    "id": "22cd2aa2a39811ae",
+    "username": "nkr",
+    "password": "nkr",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
 
