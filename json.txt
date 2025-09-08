@@ -58,7 +58,7 @@
   {
     "id": "618617752e9ddd79",
     "username": "ZONGOValentin",
-    "password": "ZONGO1234@",
+    "password": "ZONGO1234",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   },
@@ -71,8 +71,8 @@
   },
   {
     "id": "516f69092a9965c4",
-    "username": "Elisabeth12@",
-    "password": "Elisabeth12@",
+    "username": "Elisabeth12",
+    "password": "Elisabeth12",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   },
