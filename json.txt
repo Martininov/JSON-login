@@ -85,8 +85,8 @@
   },
   {
     "id": "ID: fae4821b03f31f94",
-    "username": "Christophe",
-    "password": "Confucius0",
+    "username": "1234",
+    "password": "1234",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }, 
