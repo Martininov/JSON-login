@@ -36,7 +36,7 @@
   },
   {
     "id": "3a38c83fc38fa979",
-    "username": "Nassirou seihon",
+    "username": "Nassirouseihon",
     "password": "Lousco1l",
     "expiresAt": "2025-11-30",
     "allowOffline": false
@@ -57,7 +57,7 @@
   },
   {
     "id": "618617752e9ddd79",
-    "username": "ZONGO Valentin",
+    "username": "ZONGOValentin",
     "password": "ZONGO1234@",
     "expiresAt": "2025-11-30",
     "allowOffline": false
@@ -117,7 +117,20 @@
     "password": "1234",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "f64f9e950b39a484",
+    "username": "TraoréArsène",
+    "password": "1919",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+  {
+    "id": "a75ccb75fede4694",
+    "username": "Kpandja90",
+    "password": "mennejc90",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
-
 
