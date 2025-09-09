@@ -1,5 +1,12 @@
 [
 {
+    "id": "fae4821b03f31f94",
+    "username": "ASG",
+    "password": "ASG",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
     "id": "81dc264be194e4c9",
     "username": "1234",
     "password": "1234",
