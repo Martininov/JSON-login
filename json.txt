@@ -1,5 +1,19 @@
 [
 {
+    "id": "c2277f3c36c1bd94",
+    "username": "Ledjou",
+    "password": "Alutraco1",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
+    "id": "47d929365bc4865b",
+    "username": "1234",
+    "password": "1234",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
     "id": "fae4821b03f31f94",
     "username": "ASG",
     "password": "ASG",
