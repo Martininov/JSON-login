@@ -1,4 +1,18 @@
 [
+{
+    "id": "5aebf87c77c012f4",
+    "username": "Ezechiel22",
+    "password": "436640eZ",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
+    "id": "2f09eb9d1d8621e7",
+    "username": "Fred14",
+    "password": "authentic1020",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
   {
     "id": "ae28d0999779c929",
     "username": "Charly",
