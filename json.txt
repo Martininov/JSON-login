@@ -5,7 +5,7 @@
     "password": "1234",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
 {
     "id": "5f4d2e8432253215",
     "username": "Kaderk",
