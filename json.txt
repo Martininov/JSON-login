@@ -7,6 +7,20 @@
     "allowOffline": false
   },
   {
+    "id": "1c29f5551e1a6467",
+    "username": "modder",
+    "password": "modder",
+    "expiresAt": "2026-11-30",
+    "allowOffline": false
+  }, 
+  {
+    "id": "c07f13b655fad071",
+    "username": "modder",
+    "password": "modder",
+    "expiresAt": "2026-11-30",
+    "allowOffline": false
+  }, 
+  {
     "id": "cd614db7cb303dfd",
     "username": "modder",
     "password": "modder",
