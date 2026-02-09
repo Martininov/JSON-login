@@ -7,6 +7,13 @@
     "allowOffline": false
   },
   {
+    "id": "c332d5c0a2d87628",
+    "username": "modder",
+    "password": "modder",
+    "expiresAt": "2026-11-30",
+    "allowOffline": false
+  }, 
+  {
     "id": "0e29719d6d80cb44",
     "username": "modder",
     "password": "modder",
